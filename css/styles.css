@@ -54,11 +54,11 @@ ul.social-buttons li a {
   }
 
 .contact {
-  border-top: 2px solid #eee;
+  border-top: 1px solid #eee;
 }
 
 .career {
-  border-bottom: 2px solid #eee;
+  border-bottom: 1px solid #eee;
 }
 
 footer {
@@ -81,8 +81,8 @@ h1,h2 {
 
 
 .about-text-border {
-  border-bottom: 2px solid #eee;
-  border-top: 2px solid #eee;
+  border-bottom: 3px solid #eee;
+  border-top: 3px solid #eee;
   padding: 10px 0;
   margin: 30px auto;
   width: 50%;
