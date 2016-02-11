@@ -15,6 +15,11 @@ body {
   text-align: center;
 }
 
+.project-header {
+  padding-top: 40px;
+  text-align: center;
+}
+
 header {
   height: 455px;
   background-color: #0066CC;
@@ -28,6 +33,7 @@ header img {
 
 .about, .contact{
   padding: 40px 15px;
+  padding-bottom: 0px
 }
 
 .portfolio, .contact {
@@ -48,7 +54,11 @@ ul.social-buttons li a {
   }
 
 .contact {
-  border-top: 1px solid #eee;
+  border-top: 2px solid #eee;
+}
+
+.career {
+  border-bottom: 2px solid #eee;
 }
 
 footer {
